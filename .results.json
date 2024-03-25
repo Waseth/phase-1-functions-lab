@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 13,
-    "start": "2024-03-25T13:01:48.738Z",
-    "end": "2024-03-25T13:01:49.559Z",
-    "duration": 821
+    "start": "2024-03-25T15:03:10.859Z",
+    "end": "2024-03-25T15:03:12.093Z",
+    "duration": 1234
   },
   "tests": [
     {
@@ -53,7 +53,7 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "stack": "ReferenceError: distanceFromHqInFeet is not defined\n    at Context.<anonymous> (test/indexTest.js:24:7)\n    at process.processImmediate (node:internal/timers:478:21)",
@@ -63,7 +63,7 @@
     {
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInFeet() calculates distances below 42nd street",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "stack": "ReferenceError: distanceFromHqInFeet is not defined\n    at Context.<anonymous> (test/indexTest.js:28:7)\n    at process.processImmediate (node:internal/timers:478:21)",
@@ -186,7 +186,7 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "stack": "ReferenceError: distanceFromHqInFeet is not defined\n    at Context.<anonymous> (test/indexTest.js:24:7)\n    at process.processImmediate (node:internal/timers:478:21)",
@@ -196,7 +196,7 @@
     {
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInFeet() calculates distances below 42nd street",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "stack": "ReferenceError: distanceFromHqInFeet is not defined\n    at Context.<anonymous> (test/indexTest.js:28:7)\n    at process.processImmediate (node:internal/timers:478:21)",
